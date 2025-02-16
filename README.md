@@ -5,7 +5,7 @@ Powerful tool for check, analyze and setup networks. Helps to quickly detecting 
 
 Download ip tools apk
 
-[<img src="https://github.com/user-attachments/assets/20c46730-5107-448d-9549-026f22bf3e90" alt="Get it on GitHub" height="80">](https://github.com/IPToolsApp/ip-tools-apk/releases/latest)
+[<img src="https://github.com/user-attachments/assets/20c46730-5107-448d-9549-026f22bf3e90" alt="Get it on GitHub" height="80">](https://github.com/IP-Tools-App/ip-tools-apk/releases/latest)
 [<img src="https://github.com/user-attachments/assets/14823893-d3c9-45a5-a4f1-a211a6061fc9" alt="Get it on Google Play" height="80">](https://ip-tools.app/android_classic)
 
 ## Features
