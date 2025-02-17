@@ -1,5 +1,5 @@
 # IP Tools
-[![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/ip-tools-apk/total.svg?color=blue?style=flat)](https://IP-Tools-App/ip-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/ip-tools-apk??color=bluelabel=version)](https://IP-Tools-App/ip-tools-apk/releases)
+[![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/ip-tools-apk/total.svg?color=blue?style=flat)](https://github.com/IP-Tools-App/ip-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/ip-tools-apk??color=bluelabel=version)](https://github.com/IP-Tools-App/ip-tools-apk/releases)
 
 Powerful tool for check, analyze and setup networks. Helps to quickly detecting any computer net problems, ip address and help to improve wifi and mobile connection performance.
 
